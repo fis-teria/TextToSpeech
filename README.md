@@ -1,4 +1,8 @@
 # TextToSpeech
+## ビルド済みソフトウェア
+
+<https://drive.google.com/file/d/1-sM8KDsxI2iuAFfWQ-cPkMNZnEzUm8gd/view?usp=drive_link>
+
 ##　使用している技術スタック
 
 <img src="https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic">
@@ -19,3 +23,6 @@ C++のGUIフレームワークであるQtを使用し、機械学習部にはBoo
 
 OS:Windows10
 
+##デモ動画
+
+<https://drive.google.com/file/d/1_oksJ9X6ZVU8Bcf_ncXdL5ZqC_xiGBN4/view?usp=drive_link>
