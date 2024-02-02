@@ -30,8 +30,11 @@ OS:Windows10
 <https://drive.google.com/file/d/1_oksJ9X6ZVU8Bcf_ncXdL5ZqC_xiGBN4/view?usp=drive_link>
 
 ##ソフトウェアの実装機能
+
   1.入力したテキストの読み上げ(実装済み)
+
   2.学習用の音声教師データ
+  
   3.Google Colabを使用した構築済み学習環境の提供
 
 
